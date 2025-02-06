@@ -88,7 +88,7 @@ This will start both the frontend and backend simultaneously, allowing you to vi
 
 ## Demo
 
-[![Market Minder Demo](https://github.com/parshvamody15/Market_Minder/raw/main/assets/demo.mp4)](https://github.com/parshvamody15/Market_Minder/raw/main/assets/demo.mp4)
+[![Market Minder Demo](https://raw.githubusercontent.com/parshvamody15/Market_Minder/main/assets/demo.jpg)](https://raw.githubusercontent.com/parshvamody15/Market_Minder/main/assets/demo.jpg)
 
 ## Contributing
 
