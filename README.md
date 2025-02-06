@@ -88,11 +88,7 @@ This will start both the frontend and backend simultaneously, allowing you to vi
 
 ## Demo
 
-[![Market Minder Demo](https://github.com/parshvamody15/Market_Minder/demo.mp4)]
-
-Click the link below to watch the demo video of Market Minder:
-
-[Watch Market Minder Demo](https://github.com/parshvamody15/Market_Minder/raw/main/demo.mp4)
+[![Market Minder Demo](https://github.com/parshvamody15/Market_Minder/releases/download/v1.0.0/demo.mp4)](https://github.com/parshvamody15/Market_Minder/releases/download/v1.0.0/demo.mp4)
 
 ## Contributing
 
