@@ -90,6 +90,10 @@ This will start both the frontend and backend simultaneously, allowing you to vi
 
 [![Market Minder Demo](https://github.com/parshvamody15/Market_Minder/demo.mp4)]
 
+Click the link below to watch the demo video of Market Minder:
+
+[Watch Market Minder Demo](https://github.com/parshvamody15/Market_Minder/raw/main/demo.mp4)
+
 ## Contributing
 
 We welcome your contributions to [Market Minder](https://github.com/parshvamody15/Market_Minder.git)! Start by forking the repository, cloning it to your local machine, creating a new branch, making your changes, and committing them. Then, push your changes to your fork on GitHub and create a pull request. Your contributions will be reviewed and, once approved, merged into the main project. Thank you for your help!
